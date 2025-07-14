@@ -22,6 +22,13 @@ alias gcoall="git checkout -- ."
 alias gr="git remote"
 alias gre="git reset"
 
+# 2.5. more shortcuts
+alias repos="cd ~/Documents/repos"
+alias dotfiles="cd ~/Dotfiles"
+alias home="clear && cd ~ && neofetch"
+
+
+
 # 3. Directory shorthands
 alias ..="cd .."
 alias ...="cd ../.."
